@@ -1,0 +1,3 @@
+# config.py
+RAZORPAY_API_KEY = "rzp_test_fGGHmOOCjnWlEA"
+RAZORPAY_API_SECRET = "SXEE7L5VZTwilqFmDNuRUwp7j"
